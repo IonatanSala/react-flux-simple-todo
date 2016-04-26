@@ -6,4 +6,4 @@
 
 - Then ``` npm run dev ``` to run server
 
-- Open your app on http://localhost:8080 - automatic!
+- Open your app on http://localhost:8080
